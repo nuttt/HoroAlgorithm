@@ -1,5 +1,5 @@
 # HoroAlgorithm
-The algorithm for Plamistry using Computer Vision, running on Android.
+The algorithm for Palmistry using Computer Vision, running on Android.
 
 ## Client
 The android client is at: [@withlovee's Horo](https://github.com/withlovee/Horo)
